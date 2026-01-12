@@ -3,7 +3,7 @@ import React from 'react';
 const countries = () => {
     return (
         <div>
-            <h2></h2>
+             <h2>Traveling Countries</h2>
         </div>
     );
 };
